@@ -1,0 +1,27 @@
+Implement the breaking of the Vigenere Cipher
+
+
+You should read the first 2 chapters of <The code book> and upload a two page report (not compulsory to upload the report). 
+
+You cannot execute the following code without reading this book. The book is fun to read. 
+
+
+Import string and understand the different functions.
+
+
+After assigning s=’rupnagar’. Understand what s.find and s.replace does. Also try looking at other functions and have a working knowledge of a few functions that makes sense to you.
+
+
+Understand how one can read a text file from your hard disk and store it as a string:
+The following two lines opens a file and assigns its content to the string s
+f=open(‘filename’)
+s=f.read()
+
+
+Understand the idea of ‘dictionaries’ in python. They are similar to lists but very powerful structures. 
+
+
+You are given the file text.txt. You can consider any other big text file with english words, preferably a story book. Try reading the file and create a function which returns a string s which contains all the letters of text.txt. You must remove all the non-letter characters from the file. 
+
+
+Download this python file and fill in the functions one by one.
